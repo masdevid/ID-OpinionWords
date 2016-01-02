@@ -7,4 +7,4 @@ If you use this list, please cite one of the following two papers:
 -Liu, Bing, Hu, Minqing, and Cheng, Junsheng (2005). "Opinion Observer: Analyzing and Comparing Opinions on the Web." Proceedings of the 14th International World Wide Web Conference (WWW-2005), May 10-14, Chiba, Japan.
 
 Additional references:
--Liu, Bing (2010). "Sentiment Analysis and Subjectivity." Handbook of Natural Language Processing, Second Edition. Ed. Nitin Indurkhya, Ed. Fred J. Damerau. Boca Raton: Chapman and Hall/CRC. 627-66. Print.
+- Liu, Bing (2010). "Sentiment Analysis and Subjectivity." Handbook of Natural Language Processing, Second Edition. Ed. Nitin Indurkhya, Ed. Fred J. Damerau. Boca Raton: Chapman and Hall/CRC. 627-66. Print.
