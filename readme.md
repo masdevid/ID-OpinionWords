@@ -1,4 +1,4 @@
-List of Opinion Words (positive/negative) in Bahasa Indonesia. Source by references below with modification/translation to Indonesia.
+List of Opinion Words (positive/negative) in Bahasa Indonesia. Originated by Liu's Opinion Words list with modification/translation to Indonesia.
 
 #REFERENCES
 If you use this list, please cite one of the following two papers:
